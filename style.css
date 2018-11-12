@@ -1,4 +1,4 @@
-@keyframes r{
+@keyframes rotate{
 		from {
 				-webkit-transform: rotate(0deg);
 		}
@@ -20,13 +20,17 @@
 {
 	font-size:20px;
 	display:inline-block;
-	animation: r 2s infinite linear, rainbow 3s infinite;
+	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 #ib
 {
 	
 	font-size:20px;
 	display:inline-block;
-	animation: r 2s infinite linear, rainbow 3s infinite;
+	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 
+html
+{
+color:red;	
+}

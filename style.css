@@ -16,13 +16,13 @@
 	100%{color: orange;}
 }
 
-#i1
+#ia
 {
 	font-size:20px;
 	display:inline-block;
 	animation: r 2s infinite linear, rainbow 3s infinite;
 }
-#i2
+#ib
 {
 	
 	font-size:20px;
@@ -30,4 +30,3 @@
 	animation: r 2s infinite linear, rainbow 3s infinite;
 }
 
-style="

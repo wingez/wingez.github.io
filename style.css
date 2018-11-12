@@ -19,19 +19,19 @@
 #ia
 {
 	position:relative;
-	top:-200px;
+	top:-1200px;
 	float:left;
-	font-size:20px;
+	font-size:24px;
 	display:block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 #ib
 {
 	position:relative;
-	top:-200px;
+	top:-1200px;
 	
 	float:right;
-	font-size:20px;
+	font-size:24px;
 	display:block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }

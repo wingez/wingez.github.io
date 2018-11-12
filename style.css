@@ -15,6 +15,10 @@
 	100%{color: blue;}
 	100%{color: orange;}
 }
+.red
+{
+color:red;	
+}
 
 #ia
 {
@@ -30,7 +34,3 @@
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 
-html
-{
-color:red;	
-}

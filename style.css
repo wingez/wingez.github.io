@@ -39,7 +39,7 @@
 
 .cvouter {
   background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 100%);
-  
+  width:100%;
   padding: 3px;
   display: inline-block;
   border-radius: 7px;

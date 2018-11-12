@@ -20,14 +20,14 @@
 {
 	float:left;
 	font-size:20px;
-	display:inline-block;
+	display:block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 #ib
 {
 	float:right;
 	font-size:20px;
-	display:inline-block;
+	display:block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 

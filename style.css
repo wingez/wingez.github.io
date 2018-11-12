@@ -18,6 +18,7 @@
 
 #ia
 {
+	float:left;
 	font-size:20px;
 	display:inline-block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;

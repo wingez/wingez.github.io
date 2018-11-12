@@ -56,7 +56,11 @@
 
 
 .ca:before {
-fontsize:16px;
+	
+    position: relative;
+    left: -120;
+    top: -120;
+font-size:16px;
 font-weight:bold;
   content: "Awesomeness";
 }

@@ -16,23 +16,24 @@
 	100%{color: orange;}
 }
 
-#ia
+#ia, #ib
 {
 	position:relative;
 	top:-700px;
-	float:left;
 	font-size:30px;
 	display:block;
 	animation: rotate 2s infinite linear, rainbow 3s infinite;
+	font-family: 'Pacifico', cursive;
+}
+
+#ia
+{
+	
+	float:left;
+	
 }
 #ib
 {
-	position:relative;
-	top:-700px;
-	
 	float:right;
-	font-size:30px;
-	display:block;
-	animation: rotate 2s infinite linear, rainbow 3s infinite;
 }
 

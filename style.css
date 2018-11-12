@@ -60,4 +60,9 @@ fontsize:16px;
 font-weight:bold;
   content: "Awesomeness";
 }
-
+.cb
+{
+	background-image: "/portal/js/star-on.png";
+    background-repeat: repeat-x;
+	width:1000px;
+}

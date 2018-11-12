@@ -37,3 +37,19 @@
 	float:right;
 }
 
+.cvouter {
+  background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 100%);
+  position: relative;
+  padding: 3px;
+  display: inline-block;
+  border-radius: 7px;
+  .cvinner {
+    display: block;
+    background: #ffffff;
+    
+    padding: 2rem 5rem;
+    border-radius: 5px;
+    
+  }
+}
+

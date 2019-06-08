@@ -1,0 +1,81 @@
+@keyframes rotate{
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+@keyframes rainbow{
+  0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+	40%{color: yellow;}
+	60%{color: green;}
+	100%{color: blue;}
+	100%{color: orange;}
+}
+
+#ia, #ib
+{
+	position:relative;
+	top:-700px;
+	font-size:30px;
+	display:block;
+	animation: rotate 2s infinite linear, rainbow 3s infinite;
+	font-family: 'Pacifico', cursive;
+}
+
+#ia
+{
+	
+	float:left;
+	
+}
+#ib
+{
+	float:right;
+}
+
+.cvouter {
+  background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 100%);
+  width:100%;
+  padding: 3px;
+  display: inline-block;
+  border-radius: 7px;
+}
+
+.cvinner {
+    display: block;
+    background: #ffffff;
+    
+    padding: 2rem 5rem;
+    border-radius: 5px;
+    
+  }
+
+
+.ca:before {
+	
+    position: relative;
+    left: -120;
+    top: -120;
+font-size:16px;
+font-weight:bold;
+  content: "Awesomeness";
+}
+.cb
+{
+	background-image: url(https://ansok.teknikspranget.se/portal/js/star-on.png);
+    background-repeat: repeat-x;
+	width:320px;
+	height:16px;
+	
+    display: inline-block;
+    position: relative;
+    /* margin-left: 200; */
+    left: 220px;
+    top: -140px;
+
+	
+}

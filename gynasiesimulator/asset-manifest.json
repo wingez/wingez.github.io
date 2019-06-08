@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gynasiesimulator/static/css/main.100cbf8a.chunk.css",
-    "main.js": "/gynasiesimulator/static/js/main.eed8d1cc.chunk.js",
-    "main.js.map": "/gynasiesimulator/static/js/main.eed8d1cc.chunk.js.map",
-    "runtime~main.js": "/gynasiesimulator/static/js/runtime~main.225e52fd.js",
-    "runtime~main.js.map": "/gynasiesimulator/static/js/runtime~main.225e52fd.js.map",
-    "static/js/2.6408f43b.chunk.js": "/gynasiesimulator/static/js/2.6408f43b.chunk.js",
-    "static/js/2.6408f43b.chunk.js.map": "/gynasiesimulator/static/js/2.6408f43b.chunk.js.map",
-    "index.html": "/gynasiesimulator/index.html",
-    "precache-manifest.3a88638eb077c4a3d87970244c15ec0b.js": "/gynasiesimulator/precache-manifest.3a88638eb077c4a3d87970244c15ec0b.js",
-    "service-worker.js": "/gynasiesimulator/service-worker.js",
-    "static/css/main.100cbf8a.chunk.css.map": "/gynasiesimulator/static/css/main.100cbf8a.chunk.css.map"
+    "main.css": "/gynasiesimulator/./static/css/main.100cbf8a.chunk.css",
+    "main.js": "/gynasiesimulator/./static/js/main.eed8d1cc.chunk.js",
+    "main.js.map": "/gynasiesimulator/./static/js/main.eed8d1cc.chunk.js.map",
+    "runtime~main.js": "/gynasiesimulator/./static/js/runtime~main.b94f6c2e.js",
+    "runtime~main.js.map": "/gynasiesimulator/./static/js/runtime~main.b94f6c2e.js.map",
+    "static/js/2.6408f43b.chunk.js": "/gynasiesimulator/./static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/gynasiesimulator/./static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/gynasiesimulator/./index.html",
+    "precache-manifest.d6765ded4486263191423f825d18f39b.js": "/gynasiesimulator/./precache-manifest.d6765ded4486263191423f825d18f39b.js",
+    "service-worker.js": "/gynasiesimulator/./service-worker.js",
+    "static/css/main.100cbf8a.chunk.css.map": "/gynasiesimulator/./static/css/main.100cbf8a.chunk.css.map"
   }
 }

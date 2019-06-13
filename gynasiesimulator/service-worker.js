@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gynasiesimulator/./precache-manifest.d6765ded4486263191423f825d18f39b.js"
+  "/gynasiesimulator/./precache-manifest.1b2f7e4efd76e73132b21ca7c5d3a6ad.js"
 );
 
 self.addEventListener('message', (event) => {
